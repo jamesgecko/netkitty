@@ -1,0 +1,19 @@
+{
+  "name": "netkitty",
+  "version": "0.0.0",
+  "description": "",
+  "main": "netkitty.js",
+  "dependencies": {
+    "ftp-server": "~0.1.0",
+    "nodeftpd": "alanszlosek/nodeftpd",
+    "jsftp": "~1.1.0",
+    "mdns": "~1.1.0",
+    "portchecker": "~0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James D",
+  "license": "MIT"
+}
