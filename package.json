@@ -5,7 +5,7 @@
   "main": "netkitty.js",
   "dependencies": {
     "ftp-server": "~0.1.0",
-    "nodeftpd": "alanszlosek/nodeftpd",
+    "nodeftpd": "addrummond/nodeftpd",
     "jsftp": "~1.1.0",
     "mdns": "~1.1.0",
     "portchecker": "~0.1.2"
